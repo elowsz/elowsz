@@ -1,10 +1,11 @@
 # Elô <img src="https://github.com/user-attachments/assets/586c3d77-7cf4-4683-9431-a8a7f592f8c9" width="30px">
 
-Eu sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, e Estou cursando análise e desenvolvimento de sistemas na Faculdade Senac, Sou Olindense morando em Recife e é um prazer te ter por aqui :))</strong>  
+Estudante de Análise e desenvolvimento de sistemas | JavaScript | MySQL | Front-end
 
-- 🚀 Atualmente estou aprendendo: <strong>HTML, JavaScript e Css.</strong> 
-- 💬 Pergunte-me sobre: <strong></strong>
-- 📣 Nós podemos falar em: <strong>Português e Espanhol.</strong>
+Sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, e Estou cursando análise e desenvolvimento de sistemas na Faculdade Senac, Sou Olindense morando em Recife e é um prazer te ter por aqui :))</strong>  
+
+- 🚀 Inglês Intermediário. </strong> 
+- 📣 <strong>Meu Linkedin: https://www.linkedin.com/in/elowsz/ </strong>
 
 <div align="center">
 
