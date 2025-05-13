@@ -2,7 +2,7 @@
 
 Estudante de Análise e desenvolvimento de sistemas | JavaScript | MySQL | Front-end
 
-Sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, e Estou cursando análise e desenvolvimento de sistemas na Faculdade Senac, Olindense morando em Recife e é um prazer te ter por aqui! </strong>  
+Sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, Cursando análise e desenvolvimento de sistemas na Faculdade Senac, Olindense morando em Recife e é um prazer te ter por aqui! </strong>  
 
 - 🚀 <strong> Inglês Intermediário. </strong> 
 - 📣 <strong> Entre em contato pelas redes abaixo :)  </strong>
