@@ -2,7 +2,7 @@
 
 Estudante de Análise e desenvolvimento de sistemas | JavaScript | MySQL | Front-end
 
-<strong>Oi! Eu sou a Eloisa de Andrade, estudante de Análise e Desenvolvimento de Sistemas e fascinada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências memoráveis. </strong>  
+<strong> Oie! Me chamo Eloisa de Andrade, estudante de Análise e Desenvolvimento de Sistemas e fascinada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências memoráveis. </strong>  
 
 - 🚀 <strong> Inglês Intermediário. </strong> 
 - 📣 <strong> Entre em contato pelas redes abaixo :)  </strong>
