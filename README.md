@@ -7,6 +7,15 @@ Sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, Cursando análise
 - 🚀 <strong> Inglês Intermediário. </strong> 
 - 📣 <strong> Entre em contato pelas redes abaixo :)  </strong>
 
+### 📊 Projetos em Destaque
+- [Currículo em HTML e CSS](https://github.com/elowsz/curriculo-html)
+- [Sistema de Gerenciamento de Visitas - ArcoMix](https://github.com/elowsz/arcomix-visitas)
+- [Projeto Atletando (App de Paraatletismo)](https://github.com/elowsz/atletando)
+
+
+### 📈 Estatísticas
+![Eloisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elowsz&show_icons=true&theme=dracula)
+
 
 <div align="center">
 
