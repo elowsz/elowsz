@@ -7,6 +7,11 @@ Sou <strong>Eloisa de Andrade</strong>, <strong>Tenho 18 anos, Cursando análise
 - 🚀 <strong> Inglês Intermediário. </strong> 
 - 📣 <strong> Entre em contato pelas redes abaixo :)  </strong>
 
+### 📫 Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elowsz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eloisaandrade1006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elowsz)
+
 <div align="center">
 
   <a href="mailto:eloisaandrade1006@gmail.com" alt="Gmail">
