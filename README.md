@@ -1,4 +1,4 @@
-# Elô <img src="https://github.com/user-attachments/assets/586c3d77-7cf4-4683-9431-a8a7f592f8c9" width="30px">
+# Eloisa de Andrade
 
 Estudante de Análise e desenvolvimento de sistemas | JavaScript | MySQL | Front-end
 
