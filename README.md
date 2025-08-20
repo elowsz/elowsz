@@ -8,9 +8,8 @@ JavaScript | MySQL | Python | Front-end | CSS | UX/UI 🌱
 - 📣 <strong> Entre em contato pelas redes abaixo :)  </strong>
 
 ### 📊 Projetos em Destaque
-- [Currículo em HTML e CSS](https://github.com/elowsz/curriculo-html)
+- [Currículo em HTML e CSS](https://github.com/elowsz/tads039/blob/main/curriculo.html)
 - [Sistema de Gerenciamento de Visitas - ArcoMix](https://github.com/elowsz/arcomix-visitas)
-- [Projeto Atletando (App de Paraatletismo)](https://github.com/elowsz/atletando)
 
 ### 🚀 Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
