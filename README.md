@@ -9,7 +9,7 @@ JavaScript | MySQL | Python | Front-end | CSS | UX/UI 🌱
 
 ### 📊 Projetos em Destaque
 - [Currículo em HTML e CSS](https://github.com/elowsz/tads039/blob/main/curriculo.html)
-- [Sistema de Gerenciamento de Visitas - ArcoMix](https://github.com/elowsz/Arcomix---Sistem.-de-Controle-de-Acesso-de-Visitantes)
+- [Sistema de Gerenciamento de Visitas - ArcoMix](https://github.com/elowsz/tads039.2)
 
 ### 🚀 Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
