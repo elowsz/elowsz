@@ -4,7 +4,6 @@ JavaScript | MySQL | Python | Front-end | CSS | UX/UI 🌱
 
 <strong> Oie! Me chamo Eloisa, estudante de Análise e Desenvolvimento de Sistemas e fascinada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências memoráveis. </strong>  
 
-- 🚀 <strong> Inglês Intermediário. </strong> 
 
 ### 🚀 Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
