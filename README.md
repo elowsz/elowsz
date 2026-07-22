@@ -2,7 +2,7 @@
 
 JavaScript | MySQL | Python | Front-end | CSS | UX/UI 
 
-<strong> Oie! Me chamo Eloisa, estudante de Análise e Desenvolvimento de Sistemas e fascinada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências memoráveis. </strong>  
+<strong> Oi! Me chamo Eloisa, estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências legais. </strong>  
 
 
 ### 🚀 Tecnologias & Ferramentas
@@ -13,9 +13,7 @@ JavaScript | MySQL | Python | Front-end | CSS | UX/UI
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 Projetos em Destaque
-- [Currículo em HTML e CSS](https://github.com/elowsz/tads039/blob/main/curriculo.html)
-- [Sistema de Gerenciamento de Visitas - ArcoMix](https://github.com/elowsz/tads039.2)
+
   
 ### 📫 Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elowsz)   <a href="https://www.linkedin.com/in/elowsz/" alt="Linkedin">
