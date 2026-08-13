@@ -1,11 +1,15 @@
-# Eloisa de Andrade Ferreira da Silva
+# Eloisa de Andrade 
 
-Full stack developer | UI/UX
+Software Developer | JavaScript | Python | SQL | APIs | UI/UX Design
 
-<strong> Oi! Me chamo Eloisa, estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo universo de UI/UX. Acredito que a tecnologia deve ser não só funcional, mas também bonita e acessível. Amo criar interfaces que encantam e ao mesmo tempo resolvem problemas de forma simples. Atualmente moro em Recife - PE e estou sempre explorando novas ideias para transformar código em experiências legais. </strong>  
+<strong> Desenvolvedora de Software com foco em desenvolvimento front-end e UI/UX Design, unindo lógica, criatividade e experiência do usuário para criar soluções digitais intuitivas e funcionais.
+
+Tenho experiência com Java, Python, SQL, HTML, CSS, JavaScript, React, Node.js e Figma, desenvolvendo aplicações web, protótipos e interfaces centradas no usuário.
+
+Busco oportunidades para contribuir com projetos inovadores, aprimorar minhas habilidades e transformar ideias em soluções que gerem impacto por meio da tecnologia e do design. </strong>  
 
 
-### 🚀 Tecnologias & Ferramentas
+### - Tecnologias & Ferramentas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
